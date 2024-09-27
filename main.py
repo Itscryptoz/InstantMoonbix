@@ -22,14 +22,14 @@ def url_decode(encoded_url):
     return urllib.parse.unquote(encoded_url)
 
 def print_banner():
-    banner = """
-    ███    ██  ██████  ████████      ██████ ██████  ██    ██ ██████  ████████  ██████
-    ████   ██ ██    ██    ██        ██      ██   ██  ██  ██  ██   ██    ██    ██    ██
-    ██ ██  ██ ██    ██    ██        ██      ██████    ████   ██████     ██    ██    ██
-    ██  ██ ██ ██    ██    ██        ██      ██   ██    ██    ██         ██    ██    ██
-    ██   ████  ██████     ██         ██████ ██   ██    ██    ██         ██     ██████
-    """
-    print( Make By Not Crypto © ||  @NotCryptoz )
+    print_banner
+    print("███    ██  ██████  ████████      ██████ ██████  ██    ██ ██████  ████████  ██████")
+    print("████   ██ ██    ██    ██        ██      ██   ██  ██  ██  ██   ██    ██    ██    ██")
+    print("██ ██  ██ ██    ██    ██        ██      ██████    ████   ██████     ██    ██    ██")
+    print("██  ██ ██ ██    ██    ██        ██      ██   ██    ██    ██         ██    ██    ██")
+    print("██   ████  ██████     ██         ██████ ██   ██    ██    ██         ██     ██████")
+    print("Make By Not Crypto © ||  @NotCryptoz")
+    
     print("Join Telegram Channel https://t.me/Instant_Earn77 !")
 
 def log(message, level="INFO"):
