@@ -19,14 +19,15 @@ def url_decode(encoded_url):
 
 
 def print_banner():
-    print(crayons.blue('██    ███    ██ ███████ ████████  █████  ███    ██ ████████     ███████  █████  ██████  ███    ██'))
-    print(crayons.blue('██    ████   ██ ██         ██    ██   ██ ████   ██    ██        ██      ██   ██ ██   ██ ████   ██'))
-    print(crayons.blue('██    ██ ██  ██ ███████    ██    ███████ ██ ██  ██    ██        █████   ███████ ██████  ██ ██  ██'))
-    print(crayons.blue('██    ██  ██ ██      ██    ██    ██   ██ ██  ██ ██    ██        ██      ██   ██ ██   ██ ██  ██ ██'))
-    print(crayons.blue('██    ██   ████ ███████    ██    ██   ██ ██   ████    ██        ███████ ██   ██ ██   ██ ██   ████'))
-    print()
-    print("Join our Telegram channel: https://t.me/Instant_Earn77")
-
+    banner = """
+    ███    ██  ██████  ████████      ██████ ██████  ██    ██ ██████  ████████  ██████
+    ████   ██ ██    ██    ██        ██      ██   ██  ██  ██  ██   ██    ██    ██    ██
+    ██ ██  ██ ██    ██    ██        ██      ██████    ████   ██████     ██    ██    ██
+    ██  ██ ██ ██    ██    ██        ██      ██   ██    ██    ██         ██    ██    ██
+    ██   ████  ██████     ██         ██████ ██   ██    ██    ██         ██     ██████
+    """
+    print(" Make By Not Crypto © ||  @NotCryptoz ")
+    print(" Join Telegram Channel https://t.me/Instant_Earn77 ")
 
 def log(message, level="INFO"):
     levels = {
