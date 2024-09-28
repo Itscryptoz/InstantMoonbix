@@ -28,7 +28,7 @@ def print_banner():
     print("██ ██  ██ ██    ██    ██        ██      ██████    ████   ██████     ██    ██    ██")
     print("██  ██ ██ ██    ██    ██        ██      ██   ██    ██    ██         ██    ██    ██")
     print("██   ████  ██████     ██         ██████ ██   ██    ██    ██         ██     ██████")
-    print("Make By Not Crypto © ||  @NotCryptoz")
+    print("Made By Not Crypto © ||  @NotCryptoz")
     
     print("Join Telegram Channel https://t.me/Instant_Earn77 !")
 
