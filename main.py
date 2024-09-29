@@ -29,7 +29,6 @@ def print_banner():
     print("██  ██ ██ ██    ██    ██        ██      ██   ██    ██    ██         ██    ██    ██")
     print("██   ████  ██████     ██         ██████ ██   ██    ██    ██         ██     ██████")
     print("Made By Not Crypto © ||  @NotCryptoz")
-    
     print("Join Telegram Channel https://t.me/Instant_Earn77
 
 def log(message, level="INFO"):
